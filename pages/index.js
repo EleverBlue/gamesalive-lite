@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>GamesAlive Lite</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to gamesalive!" />
         <p className="description">
-          Get started by going to <a href='/workspaces/gamesalive-lite/pages/games.js'><code>Games</code></a>
+          Get started by going to <a href='/pages/games.js'><code>Games</code></a>
         </p>
       </main>
 
