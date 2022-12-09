@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to GamesAlive Lite!" />
         <p className="description">
-          Get started by going to <a href='./pages/games.js'><code>Games</code></a>
+          Get started by going to <a href='gamesalive-lite/pages/games.js'><code>Games</code></a>
         </p>
       </main>
 
@@ -21,3 +21,4 @@ export default function Home() {
     </div>
   )
 }
+Footer
