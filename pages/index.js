@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by going to
            <code>
-                <a href="@pages/games">
+                <a href="@pages/games.js">
             Games
                 </a>
            </code>
