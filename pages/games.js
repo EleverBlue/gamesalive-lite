@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by going to <a href='/workspaces/gamesalive-lite/pages/games.js'><code>Games</code></a>
+          Get started by going to <a><code>pages/index.js</code></a>
         </p>
       </main>
 
